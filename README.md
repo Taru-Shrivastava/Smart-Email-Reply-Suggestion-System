@@ -8,5 +8,5 @@ A system to generate polite email replies using fine-tuned DistilGPT-2 with QLoR
 4. Datasets: Enron (Kaggle), Avocado (LDC), Politeness (GitHub).
 
 ## Notes
-- GPU: 2GB (or CPU fallback).
+- GPU Status: CPU fallback (no GPU detected or 2GB insufficient).
 - Avocado dataset pending LDC approval.
